@@ -1,0 +1,209 @@
+;Country Code;City;Location;Coordinates;Pollutant;Source Name;Unit;Value;Last Updated;Country Label
+31;CL;Hualpén;JUNJI;-36.780632,-73.115657;CO;Chile - SINCA;µg/m³;964.77;2021-08-06T13:00:00+02:00;Chile
+35;CL;Huasco;EME F;-28.4664230019,-71.2215542793;CO;Chile - SINCA;µg/m³;928.75;2021-08-06T13:00:00+02:00;Chile
+73;CN;邯郸市;峰峰矿区临水派出所;36.44293,114.20016;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+85;CN;恩施土家族苗族自治州;龙凤新区;30.3772,109.5061;CO;ChinaAQIData;µg/m³;1100.0;2021-08-06T13:00:00+02:00;China
+109;NL;Hoek v. Holland;Hoek v. Holland-Berghaven;51.9778,4.12194;NO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+112;NL;Rotterdam Zuid;Rotterdam Zuid-Pleinweg;51.8911,4.48069;NO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+114;NL;Ridderkerk;Ridderkerk-Hogeweg;51.8694,4.58006;NO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+117;NL;Botlek;Botlek-Oude Maasweg;;SO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+139;CN;汕头市;龙湖子站;23.3633,116.7244;CO;ChinaAQIData;µg/m³;1100.0;2021-08-06T13:00:00+02:00;China
+167;CN;呼和浩特市;化肥厂生活区;40.7612,111.717;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+313;CN;临汾市;技工学校;36.0714,111.5028;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+412;CN;辽阳市;滨河路;41.2639,123.2354;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+437;CN;六盘水市;黄土坡;26.5917,104.83;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+448;CN;阳泉市;南庄;37.8486,113.5819;CO;ChinaAQIData;µg/m³;1200.0;2021-08-06T13:00:00+02:00;China
+569;SK;Trnavský kraj;SK0045A;48.3711090095,17.58501816;CO;EEA Slovakia;µg/m³;999.108;2021-08-06T13:00:00+02:00;Slovakia
+575;CN;四平市;境园;43.193,124.388;CO;ChinaAQIData;µg/m³;1300.0;2021-08-06T13:00:00+02:00;China
+633;CN;遵义市;第十二小学;27.5919,106.8547;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+671;NL;Hoogvliet;Hoogvliet-Leemkuil;51.8674,4.35524;PM10;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+730;PK;Islamabad;US Diplomatic Post: Islamabad;33.7235,73.11822;PM2.5;StateAir_Islamabad;µg/m³;-999.0;2021-08-06T13:00:00+02:00;Pakistan
+782;CN;济南市;东山小学;36.6868,117.532;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+886;CL;Laja;Laja;-37.2678031387,-72.7106952667;CO;Chile - SINCA;µg/m³;1009.71;2021-08-06T13:00:00+02:00;Chile
+917;CN;东莞市;万江金泰;23.0381,113.7338;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+924;CN;玉林市;玉林师范学院东校区;22.6831,110.1945;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+956;CN;广元市;老城;32.4444,105.821;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+960;CN;九江市;西园;29.7295,115.9877;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+974;CN;大同市;云冈宾馆;40.0758,113.2994;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+1068;CN;郑州市;经开区管委;34.7178,113.7329;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+1073;CN;益阳市;赫山环保分局;28.5819,112.3744;CO;ChinaAQIData;µg/m³;1300.0;2021-08-06T13:00:00+02:00;China
+1079;CN;韶关市;韶关学院;24.7791,113.6735;CO;ChinaAQIData;µg/m³;1500.0;2021-08-06T13:00:00+02:00;China
+1335;NL;Schiedam;Schiedam-Alphons Arienstraat;51.9214,4.40139;PM2.5;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+1339;ES;Cádiz;ES1593A;36.4605899995,-6.20307;CO;EEA Spain;µg/m³;1372.0;2021-08-06T08:00:00+02:00;Spain
+1367;CN;承德市;文化中心;40.9655,117.8051;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+1396;CN;唐山市;冀东油田职工医院;39.2762,118.4359;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+1464;ES;Huelva;ES1792A;37.1337899995,-6.80745;PM2.5;EEA Spain;µg/m³;991.0;2021-08-06T08:00:00+02:00;Spain
+1493;CN;潮州市;市政府;23.6608,116.6183;CO;ChinaAQIData;µg/m³;1700.0;2021-08-06T13:00:00+02:00;China
+1519;CN;盘锦市;开发区;41.1489,122.0303;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+1529;CN;防城港市;防城档案局;21.7731,108.3514;CO;ChinaAQIData;µg/m³;1300.0;2021-08-06T13:00:00+02:00;China
+1615;CL;Concón;Concón;-32.924568,-71.515399;CO;Chile - SINCA;µg/m³;970.33;2021-08-06T13:00:00+02:00;Chile
+1662;CN;梧州市;龙新;23.4835,111.2711;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+1669;CN;南京市;瑞金路;32.0309,118.8109;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+1703;CN;阜新市;东苑;42.0224,121.6717;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+1711;CN;朝阳市;八里堡;41.5648,120.4176;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+1714;CN;朔州市;区政府;39.3197,112.4258;CO;ChinaAQIData;µg/m³;1200.0;2021-08-06T13:00:00+02:00;China
+1724;MM;Rangoon;US Diplomatic Post: Rangoon;16.8256,96.1445;PM2.5;StateAir_Rangoon;µg/m³;-999.0;2021-08-06T09:30:00+02:00;Myanmar
+1732;NL;Rotterdam Noord;Rotterdam Noord -Statenweg;;O3;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+1779;CN;梅州市;梅龙;24.2991,116.1233;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+1791;NL;Hoogvliet;Hoogvliet-Leemkuil;51.8674,4.35524;NO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+1797;NL;Maassluis;Maassluis-Kwartellaan;51.932,4.22802;O3;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+1822;BA;Lukavac;Lukavac;44.5333027778,18.5348916667;CO;Bosnia_Tuzlanski;µg/m³;1607.0;2021-08-06T14:00:00+02:00;Bosnia and Herzegovina
+1832;CN;石家庄市;西南高教;38.0058,114.4586;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+1944;CN;广州市;体育西;23.1322,113.3221;CO;ChinaAQIData;µg/m³;1200.0;2021-08-06T13:00:00+02:00;China
+2081;CL;Cerro Navia;Cerro Navia;-33.4330896101,-70.7321478687;CO;Chile - SINCA;µg/m³;2770.42;2021-08-06T14:00:00+02:00;Chile
+2201;NL;Ridderkerk;Ridderkerk-Hogeweg;51.8694,4.58006;O3;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+2217;GN;Conakry;US Diplomatic Post: Conakry;9.594805,-13.636629;PM2.5;StateAir_Conakry;µg/m³;-999.0;2021-08-06T12:00:00+02:00;Guinea
+2239;CN;赣州市;市图书馆;25.8333,114.9322;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+2330;CN;哈尔滨市;松北商大;45.8167,126.561;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+2341;CN;吉林市;江北;43.8972,126.6133;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+2378;CN;呼伦贝尔市;区环保局;49.2261,119.7594;CO;ChinaAQIData;µg/m³;1400.0;2021-08-06T13:00:00+02:00;China
+2404;CN;平顶山市;石龙区;33.9116,112.8867;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+2424;CL;El Bosque;El Bosque;-33.5470996456,-70.6662041019;CO;Chile - SINCA;µg/m³;2072.09;2021-08-06T14:00:00+02:00;Chile
+2472;CN;寿光市;世纪学校;36.864,118.78;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+2475;CN;孝感市;东城区;30.9075,113.942;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+2484;CN;江门市;北街;22.6058,113.1064;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+2491;CN;黄石市;团城山;30.2092,115.0307;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+2608;CN;荆州市;管委会;30.3122,112.2747;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+2620;CN;巴彦淖尔市;附二中;40.761,107.4212;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+2623;IT;Vibo Valentia;IT2093A;38.66458,16.08024;CO;EEA Italy;µg/m³;901.7976;2021-08-06T11:00:00+02:00;Italy
+2625;IT;La Spezia;IT1456A;44.112778,9.832778;CO;EEA Italy;µg/m³;860.0;2021-08-06T02:00:00+02:00;Italy
+2738;CN;云浮市;文笔;22.9374,112.0336;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+2768;NL;Maassluis;Maassluis-Kwartellaan;51.932,4.22802;PM2.5;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+2825;NL;Maassluis;Maassluis-Kwartellaan;51.932,4.22802;SO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+2826;NL;Schiedam;Schiedam-Alphons Arienstraat;51.9214,4.40139;NO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+2829;RS;Šumadijski upravni okrug;RS0043A;44.011573,20.925031;CO;EEA Servia;µg/m³;898.0;2021-08-06T14:00:00+02:00;Serbia
+2839;CN;湘西州;州政府;28.3169,109.7325;CO;ChinaAQIData;µg/m³;1100.0;2021-08-06T13:00:00+02:00;China
+2845;CN;钦州市;市环保站;21.9667,108.6236;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+2874;CN;怀化市;林科所(对照点);27.5721,109.5981;CO;ChinaAQIData;µg/m³;1500.0;2021-08-06T13:00:00+02:00;China
+2910;SK;Banskobystrický kraj;SK0214A;48.7350006095,19.15499878;CO;EEA Slovakia;µg/m³;845.756;2021-08-06T13:00:00+02:00;Slovakia
+2953;CN;鸡西市;环保局;45.3001,130.9762;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+2983;CN;通化市;光明;41.7173,125.9358;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+3136;AT;Oberösterreich;AT4S173;48.2788888884,14.3658333333;CO;EEA Austria;µg/m³;840.30997;2021-08-06T13:00:00+02:00;Austria
+3156;CN;济宁市;电化厂;35.4042,116.5491;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+3157;CN;秦皇岛市;监测站;39.9499,119.5897;CO;ChinaAQIData;µg/m³;1600.0;2021-08-06T13:00:00+02:00;China
+3181;CN;珠海市;前山;22.2335,113.4881;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+3326;CN;清远市;清新太和;23.7403,112.9903;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+3418;NL;Rotterdam Zuid;Rotterdam Zuid-Pleinweg;51.8911,4.48069;PM10;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+3423;ES;Málaga;ES2030A;36.5109999995,-4.863;CO;EEA Spain;µg/m³;1273.0;2021-08-06T08:00:00+02:00;Spain
+3457;CL;Las Condes;Las Condes;-33.3767735203,-70.5233267841;CO;Chile - SINCA;µg/m³;1157.85;2021-08-06T14:00:00+02:00;Chile
+3510;CN;滨州市;第二水厂;37.3617,118.0018;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+3515;CN;常州市;武进监测站;31.7069,119.9468;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+3535;CN;营口市;镜湖西路;40.6511,122.215;CO;ChinaAQIData;µg/m³;1400.0;2021-08-06T13:00:00+02:00;China
+3542;CN;齐齐哈尔市;中心广场;47.3386,123.9488;CO;ChinaAQIData;µg/m³;1100.0;2021-08-06T13:00:00+02:00;China
+3695;GB;London;London Marylebone Road;51.52253,-0.154611;CO;DEFRA;µg/m³;800.0;2021-08-06T10:00:00+02:00;United Kingdom
+3730;CN;昌都市;昌都监测站;31.1273,97.1806;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+3755;CN;河源市;东埔;23.7586,114.6944;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+3762;CN;聊城市;区政府;36.4372,115.9848;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+3874;CN;上饶市;百草园(对照点);28.4572,118.005;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+3875;CN;绵阳市;市人大;31.4535,104.7563;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+3877;CN;漳州市;漳州党校;24.5183,114.6622;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+3887;CN;鞍山市;太平;41.1442,123.0485;CO;ChinaAQIData;µg/m³;1400.0;2021-08-06T13:00:00+02:00;China
+3897;CN;衡水市;市监测站;37.7316,115.6303;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+3926;MK;Aerodrom Municipality;MK0031A;41.9783299995,21.47;CO;EEA Macedonia;µg/m³;10045.6232;2021-08-06T02:00:00+02:00;Macedonia, The former Yugoslav Rep. of
+3980;CN;白城市;洮北区环保局;45.6077,122.7911;CO;ChinaAQIData;µg/m³;1200.0;2021-08-06T13:00:00+02:00;China
+3984;CN;晋城市;白云商贸;35.4936,112.8318;CO;ChinaAQIData;µg/m³;1100.0;2021-08-06T13:00:00+02:00;China
+3995;CN;三明市;三元区政府;26.2378,117.6028;CO;ChinaAQIData;µg/m³;1500.0;2021-08-06T13:00:00+02:00;China
+4147;CN;鹤壁市;南山宾馆;35.9603,114.1572;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+4157;CN;泰安市;国网新校;36.2275,117.1812;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+4171;NL;Hoek v. Holland;Hoek v. Holland-Berghaven;51.9778,4.12194;PM10;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+4203;CN;株洲市;天台山庄;27.8244,113.135;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+4210;CN;衡阳市;市委党校;26.8733,112.6197;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+4241;CL;Pudahuel;Pudahuel;-33.4378113791,-70.7501712331;CO;Chile - SINCA;µg/m³;2358.29;2021-08-06T14:00:00+02:00;Chile
+4313;CN;长春市;食品厂;43.9166,125.3325;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+4320;CN;十堰市;刘家沟;32.6389,110.7258;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+4321;CN;鄂尔多斯市;华泰汽车城;39.5989,109.8119;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+4329;CN;攀枝花市;四十中小;26.567,101.7227;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+4467;NL;Hoogvliet;Hoogvliet-Leemkuil;51.8674,4.35524;O3;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+4468;NL;Schiedam;Schiedam-Alphons Arienstraat;51.9214,4.40139;PM10;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+4524;BG;Стара Загора;BG0055A;42.432356,25.637389;CO;EEA Bulgaria;µg/m³;1420.0;2021-08-06T12:00:00+02:00;Bulgaria
+4618;AU;Mount Isa;The Gap;-20.7264,139.498;PM10;Australia - Queensland;µg/m³;-1111.0;2021-08-06T13:00:00+02:00;Australia
+4796;CN;洛阳市;河科大西苑校区;34.662,112.3677;CO;ChinaAQIData;µg/m³;1400.0;2021-08-06T13:00:00+02:00;China
+4816;CN;泉州市;津头埔;24.8978,118.5972;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+4871;NL;Hoogvliet;Hoogvliet-Leemkuil;51.8674,4.35524;SO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+4874;NL;Rotterdam Noord;Rotterdam Noord -Statenweg;;PM10;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+4915;CN;贵阳市;太慈桥;26.5424,106.674;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+5021;CN;葫芦岛市;新区;40.7073,120.8341;CO;ChinaAQIData;µg/m³;2000.0;2021-08-06T13:00:00+02:00;China
+5030;CN;七台河市;新一中(对照点);45.8751,131.0518;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+5050;CN;德州市;开发区人民医院;37.4403,116.3728;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+5061;NL;Rotterdam Zuid;Rotterdam Zuid-Pleinweg;51.8911,4.48069;PM2.5;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+5080;ES;Castellón/Castelló;ES1689A;40.0541666595,-0.46833333;CO;EEA Spain;µg/m³;900.0;2021-08-06T11:00:00+02:00;Spain
+5120;CN;凉山彝族自治州;长安;27.8914,102.237;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+5122;CN;佛山市;顺德苏岗;22.8094,113.2881;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+5127;CN;克拉玛依市;乌尔禾区商贸楼;46.098,85.6979;CO;ChinaAQIData;µg/m³;1100.0;2021-08-06T13:00:00+02:00;China
+5329;CN;兴安盟;科右前旗环保局;46.0741,121.9504;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+5342;CN;贵港市;贵城子站;23.0948,109.6014;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+5349;CN;淄博市;三金集团;36.805,117.8661;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+5474;NL;Ridderkerk;Ridderkerk-Hogeweg;51.8694,4.58006;PM2.5;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+5493;CL;La Florida;La Florida;-33.5166303623,-70.588123962;CO;Chile - SINCA;µg/m³;1751.54;2021-08-06T14:00:00+02:00;Chile
+5537;CL;Puente Alto;Puente Alto;-33.591390623,-70.594788;CO;Chile - SINCA;µg/m³;1991.95;2021-08-06T14:00:00+02:00;Chile
+5597;CN;沈阳市;森林路(对照点);41.9339,123.6836;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+5605;CN;柳州市;环保监测站;24.3277,109.4157;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+5608;CN;南昌市;省外办;28.6843,115.8931;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+5609;CN;湘潭市;科大;27.9119,112.9074;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+5610;CN;中山市;紫马岭;22.5111,113.4075;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+5823;CN;深圳市;横岗;22.6451,114.1871;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+5856;MK;Ilinden Municipality;MK0045A;41.9874399995,21.6525;CO;EEA Macedonia;µg/m³;869.99304;2021-08-06T02:00:00+02:00;Macedonia, The former Yugoslav Rep. of
+5865;NL;Maassluis;Maassluis-Kwartellaan;51.932,4.22802;NO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+6012;CN;芜湖市;监测站;31.3519,118.3606;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+6024;CN;汉中市;市监测站;33.0706,107.0154;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+6044;IT;Milano;IT0477A;45.495556,9.191389;CO;EEA Italy;µg/m³;1830.69;2021-08-06T13:00:00+02:00;Italy
+6050;IT;Genova;IT1887A;44.413889,8.911944;CO;EEA Italy;µg/m³;1410.0;2021-08-06T10:00:00+02:00;Italy
+6263;CN;长治市;潞城四中;36.3489,113.235;CO;ChinaAQIData;µg/m³;2100.0;2021-08-06T13:00:00+02:00;China
+6275;CL;Talcahuano;Nueva Libertad;-36.735998,-73.118693;CO;Chile - SINCA;µg/m³;2837.96;2021-08-06T14:00:00+02:00;Chile
+6310;IT;Foggia;IT1598A;41.62833,15.90944;CO;EEA Italy;µg/m³;1140.0;2021-08-06T05:00:00+02:00;Italy
+6355;CN;乌兰察布市;集宁新区;40.9923,113.1306;CO;ChinaAQIData;µg/m³;2400.0;2021-08-06T13:00:00+02:00;China
+6356;CN;抚顺市;顺城区;41.8822,123.9161;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+6361;CN;江阴市;五星公园;31.909,120.237;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+6471;CN;临沧市;市环保局;23.8982,100.0781;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T04:00:00+02:00;China
+6529;ES;Granada;ES1560A;37.1960999995,-3.61266;CO;EEA Spain;µg/m³;789.0;2021-08-06T08:00:00+02:00;Spain
+6555;PK;Lahore;US Diplomatic Post: Lahore;31.560078,74.33589;PM2.5;StateAir_Lahore;µg/m³;-999.0;2021-08-06T07:00:00+02:00;Pakistan
+6557;CN;锦州市;开发区;40.8434,121.0533;CO;ChinaAQIData;µg/m³;1400.0;2021-08-06T13:00:00+02:00;China
+6560;CN;镇江市;新区办事处;32.1875,119.6707;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+6601;CN;揭阳市;西马;23.5443,116.3264;CO;ChinaAQIData;µg/m³;1200.0;2021-08-06T13:00:00+02:00;China
+6612;CN;咸阳市;两寺渡;34.2969,108.6594;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+6710;CN;来宾市;来宾二中;23.7361,109.2328;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+6864;CN;北海市;牛尾岭水库(对照点);21.588,109.2262;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+6976;CN;双鸭山市;环保局;46.6554,131.1524;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+6984;CN;新余市;市气象局;27.8036,114.9308;CO;ChinaAQIData;µg/m³;1100.0;2021-08-06T13:00:00+02:00;China
+7016;IT;Perugia;IT2004A;43.10444,12.37472;CO;EEA Italy;µg/m³;900.0;2021-08-06T10:00:00+02:00;Italy
+7036;NL;Wieringerwerf;Wieringerwerf-Medemblikkerweg;52.8037,5.05051;PM2.5;Netherlands;µg/m³;-998.0;2021-08-06T04:00:00+02:00;Netherlands
+7056;CN;北京市;延庆石河营;40.4563,115.986;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+7115;CN;辽源市;环保局;42.8845,125.1358;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+7232;NL;Hoek v. Holland;Hoek v. Holland-Berghaven;51.9778,4.12194;SO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+7233;NL;Hoek v. Holland;Hoek v. Holland-Berghaven;51.9778,4.12194;PM2.5;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+7235;NL;Rotterdam Noord;Rotterdam Noord -Statenweg;;NO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+7236;PE;Lima;SAN MARTIN DE PORRES;-12.008889,-77.084472;CO;Senamhi;µg/m³;797.24;2021-08-06T13:00:00+02:00;Peru
+7313;CN;张家口市;世纪豪园;40.762,114.8902;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+7321;CN;永州市;冷水滩区环保局;26.4519,111.5989;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+7328;CN;西宁市;世纪职校;36.5786,101.8305;CO;ChinaAQIData;µg/m³;1400.0;2021-08-06T13:00:00+02:00;China
+7545;NL;Hoek v. Holland;Hoek v. Holland-Berghaven;51.9778,4.12194;O3;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+7550;NL;Maassluis;Maassluis-Kwartellaan;51.932,4.22802;PM10;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+7554;RS;Južnobanatski upravni okrug;RS0035A;44.862975,20.64429;CO;EEA Servia;µg/m³;1045.05;2021-08-06T14:00:00+02:00;Serbia
+7577;CN;泸州市;市环监站;28.8833,105.4379;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+7585;CN;重庆市;歇台子;29.5346,106.4958;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+7652;BG;Кърджали;BG0018A;41.636078,25.379683;CO;EEA Bulgaria;µg/m³;880.0;2021-08-06T12:00:00+02:00;Bulgaria
+7662;CL;Santiago;Parque O'Higgins;-33.464142,-70.660797;CO;Chile - SINCA;µg/m³;2530.01;2021-08-06T14:00:00+02:00;Chile
+7727;CN;阳江市;阳东陶然;21.8749,112.0125;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+7755;NL;Wijnandsrade;Wijnandsrade-Opfergeltstraat;50.9023,5.88175;NO2;Netherlands;µg/m³;-998.0;2021-08-06T04:00:00+02:00;Netherlands
+7788;CN;宁德市;宁德市监测站;26.6612,119.5388;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+7871;CN;张家界市;未央路;29.3547,110.5594;CO;ChinaAQIData;µg/m³;1100.0;2021-08-06T13:00:00+02:00;China
+7906;CN;包头市;东河鸿龙湾;40.5546,110.0377;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+8011;NL;Botlek;Botlek-Spoortunnel;51.8701,4.31806;NO2;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+8014;NL;Schiedam;Schiedam-Alphons Arienstraat;51.9214,4.40139;O3;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+8033;GR;ΑΤΤΙΚΗ;GR0032A;37.99945831,23.73304749;CO;EEA Greece;µg/m³;1700.0;2021-08-06T11:00:00+02:00;Greece
+8105;CN;德宏州;芒市人民政府综合楼;24.4368,98.5881;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+8109;CN;崇左市;城南新区;22.3707,107.3702;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+8141;JO;Amman;US Diplomatic Post: Amman;31.945388,35.880556;PM2.5;StateAir_Amman;µg/m³;-999.0;2021-08-06T09:00:00+02:00;Jordan
+8197;CL;Rancagua;Rancagua I;-34.1623146091,-70.7139192255;CO;Chile - SINCA;µg/m³;1300.97;2021-08-06T13:00:00+02:00;Chile
+8256;CN;南宁市;英华嘉园;22.735,108.3275;CO;ChinaAQIData;µg/m³;900.0;2021-08-06T13:00:00+02:00;China
+8257;CN;茂名市;茂石化七小;21.6533,110.9294;CO;ChinaAQIData;µg/m³;1200.0;2021-08-06T13:00:00+02:00;China
+8265;AU;Mount Isa;The Gap;-20.7264,139.498;PM2.5;Australia - Queensland;µg/m³;-1111.0;2021-08-06T13:00:00+02:00;Australia
+8284;CL;Coronel;Lota urbana;-37.0776198097,-73.1541364986;CO;Chile - SINCA;µg/m³;1350.86;2021-08-06T13:00:00+02:00;Chile
+8288;CW;Curacao;US Diplomatic Post: Curacao;12.1696,-68.99;PM2.5;StateAir_Curacao;µg/m³;-999.0;2021-08-06T14:00:00+02:00;
+8324;IT;Catanzaro;IT2087A;38.95955,16.29517;CO;EEA Italy;µg/m³;1945.5305;2021-08-06T12:00:00+02:00;Italy
+8377;CN;本溪市;彩屯;41.3094,123.7169;CO;ChinaAQIData;µg/m³;2300.0;2021-08-06T13:00:00+02:00;China
+8421;CN;天津市;第四大街;39.0343,117.707;CO;ChinaAQIData;µg/m³;1100.0;2021-08-06T13:00:00+02:00;China
+8431;CN;萍乡市;中医院;27.6434,113.8385;CO;ChinaAQIData;µg/m³;1000.0;2021-08-06T13:00:00+02:00;China
+8436;CN;周口市;周口师范;33.6347,114.6758;CO;ChinaAQIData;µg/m³;800.0;2021-08-06T13:00:00+02:00;China
+8513;NL;Ridderkerk;Ridderkerk-Hogeweg;51.8694,4.58006;PM10;Netherlands;µg/m³;-999.0;2021-08-06T04:00:00+02:00;Netherlands
+8518;RS;Južnobački upravni okrug;RS0029A;45.245065,19.84119;CO;EEA Servia;µg/m³;846.28;2021-08-06T14:00:00+02:00;Serbia
